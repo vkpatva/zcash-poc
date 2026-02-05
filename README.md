@@ -12,6 +12,8 @@ A minimal, **non-crypto-secure** JavaScript simulation that shows how a Zcash-st
 
 No real zk-SNARKs, elliptic curves, or crypto libraries — only integers and a fake hash. Correctness of relationships is the goal, not security.
 
+For more Q&A (tracking, receiving, keys, multi-device sync, etc.), see **[FAQ.md](FAQ.md)**.
+
 ## What’s inside a note vs what’s on chain
 
 | In the note (private, off-chain) | On the chain (public) |
