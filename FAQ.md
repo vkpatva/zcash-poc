@@ -13,6 +13,26 @@ Frequently asked questions about the shielded pool (notes, commitments, nullifie
 5. [Wallets & UX](#wallets--ux)
 6. [Code walkthrough](#code-walkthrough)
 7. [Summary table](#summary-table)
+8. [Contributing to this FAQ](#contributing-to-this-faq)
+
+---
+
+## Contributing to this FAQ
+
+You can add or suggest new Q&A in two ways:
+
+**Via issue (suggest a question or topic)**  
+- Open an issue in this repo with:
+  - The **question** you’d like to see answered (and, if you have one, a **suggested answer** or link to a source).
+  - Optionally, which section it fits (Concepts, Privacy & tracking, Receiving & spending, Wallets & UX, etc.).
+- Maintainers or others can then turn it into a PR, or you can open a PR yourself later.
+
+**Via PR (add a question–answer directly)**  
+- Open a pull request that:
+  1. Adds the new Q&A under the right section (Concepts, Privacy & tracking, Receiving & spending, Wallets & UX). Use the same style: `### Question?` then a short answer (paragraphs or bullets).
+  2. Adds a one-line entry to the [Quick reference](#quick-reference) table and, if needed, to the [Summary table](#summary-table) at the end.
+  3. Adds the new question to [Contents](#contents) with an anchor link (e.g. `[New question](#new-question)`).
+- Keep answers accurate, concise, and consistent with the rest of the FAQ and with `simulation.js` where relevant.
 
 ---
 
